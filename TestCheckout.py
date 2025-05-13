@@ -1,4 +1,7 @@
 import pytest
 
-def test_AssertTure():
-    assert True;
+from Checkout import Checkout
+
+
+def test_CanInitiateCheckout():
+    co = Checkout()
