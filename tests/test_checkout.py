@@ -1,6 +1,6 @@
 import pytest
 
-from Checkout import Checkout
+from checkout import Checkout
 
 @pytest.fixture()
 def checkout():

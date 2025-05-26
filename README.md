@@ -28,7 +28,7 @@ The project was built using the **Red-Green-Refactor** cycle of TDD:
 The tests are written using **pytest**. To run the tests, execute the following command in the terminal:
 
 ```bash
-pytest TestCheckout.py
+pytest test_checkout.py
 ```
 
 ## Example
